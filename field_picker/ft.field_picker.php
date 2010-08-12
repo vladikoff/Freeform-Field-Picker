@@ -8,7 +8,7 @@ class Field_Picker_ft extends EE_Fieldtype {
 		'version'	=> '1.0'
 	);
 	
-	function Field_Types_Karvis_ft()
+	function Field_Picker_ft() 
 	{
 		parent::EE_Fieldtype();
 	}
